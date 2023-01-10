@@ -28,6 +28,14 @@ EXPERIMENT 5
 ![Screenshot (8)](https://user-images.githubusercontent.com/113325376/211539475-780ba086-4d04-4ecc-969a-8ba872669379.png)
 
 
+
+EXPERIMENT 6
+
+
+![Screenshot (14)](https://user-images.githubusercontent.com/113325376/211546682-67102a69-d3ed-45b7-87c6-25d6940fb9b2.png)
+
+
+
 EXPERIMENT 7
 
 
