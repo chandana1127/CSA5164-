@@ -11,9 +11,8 @@ void ce();
 long int cd(long int);
 void encrypt();
 void decrypt();
-void main()
+int main()
 {
-clrscr();
 printf("\nENTER FIRST PRIME NUMBER\n");
 scanf("%d",&p);
 flag=prime(p);
@@ -36,7 +35,6 @@ scanf("%s",msg);
 for(i=0;msg[i]!=NULL;i++)
 m[i]=msg[i];
 n=p*q;
-29
 t=(p-1)*(q-1);
 ce();
 printf("\nPOSSIBLE VALUES OF e AND d ARE\n");
@@ -91,7 +89,6 @@ void encrypt() {
 long int pt,ct,key=e[0],k,len;
 i=0;
 len=strlen(msg);
-30
 while(i!=len) {
 pt=m[i];
 pt=pt-96;
