@@ -2,12 +2,11 @@
 #include <string.h>
 #include<conio.h>
 #include <ctype.h>
-void main()
+int main()
 {
 char plain[10], cipher[10];
 int key,i,length;
 int result;
-clrscr();
 printf("\n Enter the plain text:");
 scanf("%s", plain);
 printf("\n Enter the key value:");
@@ -34,4 +33,3 @@ plain[i]=plain[i]+26;
 printf("%c",plain[i]);
 }
 getch();
-}
